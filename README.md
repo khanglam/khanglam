@@ -54,6 +54,14 @@ I'm a passionate Software Developer with a strong foundation in both backend and
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khanglam&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 </div>
 
+## 🏢 Organization
+<a href="https://github.com/KaizenPlayground" target="_blank">
+  <img src="https://img.shields.io/badge/KaizenPlayground-Organization-blue?logo=github" alt="KaizenPlayground"/>
+</a>
+<p>
+  I actively contribute to <a href="https://github.com/KaizenPlayground" target="_blank"><b>KaizenPlayground</b></a> — check out our projects!
+</p>
+
 ## ⚡ Fun Facts
 - 🚴 I love cycling, running, and exploring new cafes
 - ☕ Big fan of specialty coffee and productivity tools
