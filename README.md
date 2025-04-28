@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Khang Lam
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Khang+Lam;Software+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
