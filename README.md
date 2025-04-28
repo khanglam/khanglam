@@ -1,6 +1,13 @@
 # 👋 Hi, I'm Khang Lam
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Khang+Lam;Software+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
+</p>
+
 I'm a passionate Software Developer with a strong foundation in both backend and frontend technologies. I love building web applications, automating workflows, and exploring new tech stacks. My journey has taken me through a variety of projects, from full-stack web apps to data-driven solutions and cloud deployments.
+
+## 🧑‍💻 Currently Working On
+- <a href="https://github.com/KaizenPlayground/JobApplicationTracker" target="_blank"><b>Job Application Tracker</b></a>: A full-stack app to help users track and manage their job applications efficiently.
 
 ## 🚀 About Me
 
@@ -39,11 +46,19 @@ I'm a passionate Software Developer with a strong foundation in both backend and
   <!-- Add/remove icons as you see fit -->
 </p>
 
+## 🏆 Achievements & Certifications
+- 🥇 Placed in hackathons and coding competitions
+- 📜 Earned certifications in Java, Python, and cloud technologies
+
 ## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khanglam&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 </div>
+
+## ⚡ Fun Facts
+- 🚴 I love cycling, running, and exploring new cafes
+- ☕ Big fan of specialty coffee and productivity tools
 
 ## 🌐 Connect with Me
 
