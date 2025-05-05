@@ -6,6 +6,8 @@ I'm a passionate Software Developer with a strong foundation in both backend and
 
 ## 🧑‍💻 Currently Working On
 - <a href="https://github.com/KaizenPlayground/JobApplicationTracker" target="_blank"><b>Job Application Tracker</b></a>: A full-stack app to help users track and manage their job applications efficiently.
+- <a href="https://github.com/khanglam/CredentialsManager"><b>Credentials Manager</b></a>: Centralize your credentials management. No more primitive txt/excels
+- <b>Trading Bot</b>: Playground for testing my trading strategies and making passive gains!
 
 ## 🚀 About Me
 
